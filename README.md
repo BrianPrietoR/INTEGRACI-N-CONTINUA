@@ -116,4 +116,4 @@ Este proyecto demuestra:
 
 ## 👨‍💻 Autor
 
-Proyecto realizado para el curso de **Integración Continua**.
+Proyecto realizado para el curso de **Integración Continua**. Por Brian Alexander Prieto del Politecnico Gran Colombiano
